@@ -17,12 +17,12 @@
   Here we have to give answers the Questions from investors because they want to get idea how students are engaging in programe , how much students taking interest and how are actually outliers.
 
   ## Questions Statement
-     1. Average time spent in the class. 
-     2.	How does average time in class change with the date.
-     3.	How does attendance(total students) change over time.
-     4.	Who are the worst-performing students, in terms of attendance.
-     5.	Plot a box whisker diagram to represent median, upper quartile, lower quartile, and range of time spend in the class. 
-     6. Who are the Best-performing students, in terms of attendance.
+     1.Average time spent in the class. 
+     2.How does average time in class change with the date.
+     3.How does attendance(total students) change over time.
+     4.Who are the worst-performing students, in terms of attendance.
+     5.Plot a box whisker diagram to represent median, upper quartile, lower quartile, and range of time spend in the class. 
+     6.Who are the Best-performing students, in terms of attendance.
 
 ## Investors Queries answers
 
